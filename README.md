@@ -209,20 +209,63 @@ EchoGuard explores how AI-based voice authentication, neural audio watermarking,
 
 ## 📜 Certifications & Learning
 
-<details>
-<summary><strong>View certifications</strong></summary>
-<br />
+<div align="center">
 
-- Certified Generative AI Professional — Oracle
-- AI Foundations Associate — Oracle
-- Certified Data Science Professional — Oracle
-- Power BI Data Analyst Associate — Microsoft
-- Responsible & Safe AI Systems — NPTEL (Elite)
-- Introduction to Internet of Things — NPTEL (Elite)
-- AI and cloud learning paths — IBM SkillsBuild
-- Data Science for Beginners — Board Infinity
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+<img src="https://img.shields.io/badge/ORACLE-7c3aed?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle certifications" />
+
+**Certified Generative AI Professional**<br />
+**AI Foundations Associate**<br />
+**Certified Data Science Professional**
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/MICROSOFT-06b6d4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft certification" />
+
+**Power BI Data Analyst Associate**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/NPTEL%20%7C%20ELITE-ec4899?style=for-the-badge&logo=bookstack&logoColor=white" alt="NPTEL Elite certifications" />
+
+**Responsible & Safe AI Systems**<br />
+**Introduction to Internet of Things**
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/IBM%20SKILLSBUILD-2563eb?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild learning" />
+
+**AI and cloud learning paths**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/BOARD%20INFINITY-f97316?style=for-the-badge&logo=academia&logoColor=white" alt="Board Infinity certification" />
+
+**Data Science for Beginners**
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/LEARNING%20MODE-ACTIVE-10b981?style=for-the-badge&logo=bookstack&logoColor=white" alt="Active learning" />
+
+Expanding my toolkit across AI, data, cloud, and full-stack engineering.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 📊 GitHub Analytics
 
