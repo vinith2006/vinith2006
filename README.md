@@ -236,14 +236,19 @@ EchoGuard explores how AI-based voice authentication, neural audio watermarking,
 <img src="https://img.shields.io/badge/NPTEL%20%7C%20ELITE-ec4899?style=for-the-badge&logo=bookstack&logoColor=white" alt="NPTEL Elite certifications" />
 
 **Responsible & Safe AI Systems**<br />
-**Introduction to Internet of Things**
+<sub>Elite · 65%</sub><br />
+**Introduction to Internet of Things**<br />
+<sub>Elite · 78%</sub>
 
 </td>
 <td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/IBM%20SKILLSBUILD-2563eb?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild learning" />
 
-**AI and cloud learning paths**
+- **Build a Retrieval Augmented Generation Pattern with LangChain**
+- **Journey to Cloud: Envisioning Your Solution**
+- **Getting Started with Artificial Intelligence**
+- **Build an AI-Powered Document Retrieval System with IBM Granite and Docling**
 
 </td>
 </tr>
@@ -257,7 +262,7 @@ EchoGuard explores how AI-based voice authentication, neural audio watermarking,
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/LEARNING%20MODE-ACTIVE-10b981?style=for-the-badge&logo=bookstack&logoColor=white" alt="Active learning" />
+<img src="https://img.shields.io/badge/11%20CREDENTIALS-ACTIVE%20LEARNING-10b981?style=for-the-badge&logo=bookstack&logoColor=white" alt="11 credentials and active learning" />
 
 Expanding my toolkit across AI, data, cloud, and full-stack engineering.
 
