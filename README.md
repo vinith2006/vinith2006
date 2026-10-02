@@ -1,177 +1,291 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102a43,45:0f766e,100:f97316&height=220&section=header&text=Vinith%20M&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Student&descAlignY=62&descSize=18" alt="Vinith M - Software Developer" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=620&height=38&lines=Building+useful+software+with+clean+interfaces;Exploring+AI%2C+full-stack+systems%2C+and+real-world+products;Always+learning.+Always+shipping." alt="Animated introduction" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,75:4c1d95,100:06b6d4&height=240&section=header&text=VINITH%20M&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=COMPUTER%20SCIENCE%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=61&descSize=16&descColor=67e8f9" alt="Vinith M futuristic header" width="100%" />
 
-  <p>
-    <a href="https://github.com/vinith2006"><img src="https://img.shields.io/badge/GitHub-vinith2006-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-    <a href="https://linkedin.com/in/vinith05"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="https://ai.studio/apps/drive/1rSExW8VthcpDiSjAGob61v6XTp-mqmy4"><img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:vinithmurugan275@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/21-Public%20Repositories-0F766E?style=flat-square" alt="21 public repositories" />
-    <img src="https://img.shields.io/badge/Open%20to-Opportunities-F97316?style=flat-square" alt="Open to opportunities" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI-102A43?style=flat-square" alt="Full-stack and AI focus" />
-  </p>
-</div>
-
-<h2 align="center">Hello, I'm Vinith</h2>
-
-<p align="center">
-  Computer Science Engineering student who turns ideas into responsive interfaces,<br />
-  practical APIs, and thoughtful software experiences.
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Currently</h3>
-      <ul>
-        <li>Studying B.E. Computer Science and Engineering</li>
-        <li>Building web applications and AI-powered tools</li>
-        <li>Exploring React, TypeScript, Node.js, and applied AI</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Quick facts</h3>
-      <ul>
-        <li><strong>College:</strong> M. Kumarasamy College of Engineering</li>
-        <li><strong>Batch:</strong> 2027</li>
-        <li><strong>Based in:</strong> Dindigul, Tamil Nadu, India</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## What I Build
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=45&lines=Building+intelligent+web+experiences;Developing+AI-powered+applications;Creating+scalable+full-stack+systems;Turning+ideas+into+real-world+software" alt="Vinith M animated introduction" />
 
 <p>
-  <img src="https://img.shields.io/badge/01-Frontend%20Experiences-0F766E?style=for-the-badge" alt="Frontend experiences" />
-  <img src="https://img.shields.io/badge/02-Backend%20Systems-102A43?style=for-the-badge" alt="Backend systems" />
-  <img src="https://img.shields.io/badge/03-AI%20Powered%20Tools-F97316?style=for-the-badge" alt="AI powered tools" />
+  <a href="https://github.com/vinith2006"><img src="https://img.shields.io/github/followers/vinith2006?label=Followers&style=for-the-badge&logo=github&color=8b5cf6&labelColor=050816" alt="GitHub followers" /></a>
+  <a href="https://github.com/vinith2006/vinith2006"><img src="https://img.shields.io/github/stars/vinith2006/vinith2006?label=Profile%20repo%20stars&style=for-the-badge&logo=github&color=06b6d4&labelColor=050816" alt="Profile repository stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vinith2006&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-f97316?style=for-the-badge&labelColor=050816" alt="Open to opportunities" />
 </p>
 
-I enjoy working across the stack, from responsive interfaces to APIs, databases, and data-backed features. I am open to software development internships and entry-level opportunities.
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vinith2006/General-Chatbot">Full-Stack AI Chatbot</a></h3>
-      <p>Persistent conversations, streaming responses, Markdown, and code highlighting.</p>
-      <sub>React · Spring Boot · Java · MySQL · OpenAI API</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vinith2006/cooking-assistant">AI Cooking Assistant</a></h3>
-      <p>Ingredient-based recipes, guided cooking steps, meal planning, and dietary swaps.</p>
-      <sub>JavaScript · HTML · CSS · Node.js · Gemini API</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vinith2006/Hospital-Mangement-System">Hospital Management System</a></h3>
-      <p>Analytics dashboard for patient records, appointments, billing, and clinical support.</p>
-      <sub>React · TypeScript</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vinith2006/homefurnish-portfolio">Furniture & Home Essentials</a></h3>
-      <p>Full-stack storefront with product search, admin tools, authentication, and image uploads.</p>
-      <sub>React · Tailwind CSS · Express · MongoDB</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vinith2006/Payroll-Management-System">Payroll Management System</a></h3>
-      <p>Web-based employee management, attendance tracking, and salary calculation.</p>
-      <sub>PHP · MySQL · <a href="https://payroll-management-system-livid-mu.vercel.app">Live demo</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vinith2006/EchoGuard">EchoGuard</a></h3>
-      <p>Audio watermarking and verification project exploring voiceprints and blockchain ownership.</p>
-      <sub>JavaScript · TypeScript · Python · Solidity</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://github.com/vinith2006?tab=repositories"><strong>Explore all 21 public repositories →</strong></a></p>
-
-## Technology Stack
-
-<p><strong>Languages</strong><br />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<p>
+  <a href="https://github.com/vinith2006"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
+  <a href="https://linkedin.com/in/vinith05"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn profile" /></a>
+  <a href="mailto:vinithmurugan275@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Vinith" /></a>
+  <a href="https://ai.studio/apps/drive/1rSExW8VthcpDiSjAGob61v6XTp-mqmy4"><img src="https://img.shields.io/badge/Portfolio-Explore-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p><strong>Frameworks, databases & tools</strong><br />
-  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-## GitHub Snapshot
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinith2006&show_icons=true&hide_border=true&rank_icon=github&title_color=0f766e&icon_color=f97316&text_color=334155" height="165" alt="Vinith's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinith2006&layout=compact&hide_border=true&title_color=0f766e&text_color=334155" height="165" alt="Vinith's most used languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinith2006&hide_border=true&ring=f97316&fire=f97316&currStreakLabel=0f766e&sideLabels=334155&dates=64748b" height="165" alt="Vinith's contribution streak" />
-</p>
+<div align="center">
 
-## Experience
+<table>
+<tr>
+<td align="center" width="25%"><b>🎓</b><br /><sub>CSE STUDENT</sub><br /><strong>Batch 2027</strong></td>
+<td align="center" width="25%"><b>⚡</b><br /><sub>FOCUS</sub><br /><strong>Full-Stack + AI</strong></td>
+<td align="center" width="25%"><b>🧠</b><br /><sub>BUILDING</sub><br /><strong>Useful Products</strong></td>
+<td align="center" width="25%"><b>📍</b><br /><sub>BASED IN</sub><br /><strong>Tamil Nadu, India</strong></td>
+</tr>
+</table>
 
-| Role | Organization | Period |
-| --- | --- | --- |
-| Frontend Developer Intern | MoviCloud Labs Pvt. Ltd. | Jan–Apr 2026 |
-| Web Development Intern | ApexPlanet Software Pvt. Ltd. | Jun–Aug 2025 |
+</div>
 
-## Certifications & Recognition
+## 🧑‍💻 About Me
 
-<details>
-  <summary><strong>Professional certifications</strong></summary>
-  <br />
-  Certified Generative AI Professional, Oracle · AI Foundations Associate, Oracle · Certified Data Science Professional, Oracle · Power BI Data Analyst Associate, Microsoft · Responsible & Safe AI Systems and Introduction to IoT (Elite), NPTEL · AI and cloud learning paths, IBM SkillsBuild · Data Science for Beginners, Board Infinity.
-</details>
+I am a Computer Science & Engineering student and software developer passionate about building modern web applications, AI-powered tools, and practical software systems. I enjoy turning ideas into responsive interfaces, reliable APIs, database-driven applications, and useful products.
 
-<details>
-  <summary><strong>Hackathon recognition</strong></summary>
-  <br />
-  First Prize, Intellix-ML Hackathon (Sep 2025) · Second Prize, Gencraft '25 (Feb 2026) · Third Prize, SiteSpark (Oct 2025) · Third Prize, Forgia Hackathon (Nov 2025).
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Let's Connect
+### What drives me
 
-<p align="center">
-  <a href="mailto:vinithmurugan275@gmail.com"><img src="https://img.shields.io/badge/Email-vinithmurugan275%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vinith" /></a>
-  <a href="tel:+917904169086"><img src="https://img.shields.io/badge/Phone-%2B91%2079041%2069086-0F766E?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
-</p>
+- 💻 Full-stack and frontend development
+- 🤖 Applied AI and machine learning
+- 🚀 Hackathons, experimentation, and shipping
 
-<p align="center">
-  <a href="https://github.com/vinith2006?tab=repositories"><img src="https://img.shields.io/badge/Explore%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="https://ai.studio/apps/drive/1rSExW8VthcpDiSjAGob61v6XTp-mqmy4"><img src="https://img.shields.io/badge/Open%20portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open portfolio" /></a>
-  <a href="https://linkedin.com/in/vinith05"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  Dindigul, Tamil Nadu, India · <a href="https://github.com/vinith2006/portfolio">Portfolio source</a>
-</p>
+### Current coordinates
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinith2006&style=flat-square&color=0f766e&label=Profile%20views" alt="Profile views" />
-</p>
+- 🎓 M. Kumarasamy College of Engineering
+- 📅 B.E. Computer Science & Engineering, 2027
+- 🌱 Learning modern systems, tools, and architectures
+
+</td>
+</tr>
+</table>
+
+## ⚡ Tech Arsenal
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:0f766e,100:102a43&height=100&section=footer" alt="Footer" width="100%" />
+
+**LANGUAGES**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,php,mysql&theme=dark" alt="Java, JavaScript, TypeScript, Python, HTML, CSS, PHP, MySQL" /></a>
+
+**FRONTEND · BACKEND · DATABASES**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,spring,flask,mongodb,mysql&theme=dark" alt="React, Tailwind, Node.js, Express, Spring, Flask, MongoDB, MySQL" /></a>
+
+**AI · DATA · TOOLS**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pandas,sklearn,git,github,vscode,postman,vercel,netlify&theme=dark" alt="Python, Pandas, Scikit-learn, Git, GitHub, VS Code, Postman, Vercel, Netlify" /></a>
+
+</div>
+
+## 🌌 Digital Workspace
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,50:312e81,100:06b6d4&height=170&text=%E2%9C%A6%20V%20M%20%E2%9C%A6&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="Vinith M digital workspace visual" width="88%" />
+
+<p><sub>FULL-STACK SYSTEMS&nbsp;&nbsp;•&nbsp;&nbsp;AI EXPERIMENTS&nbsp;&nbsp;•&nbsp;&nbsp;CREATIVE TECHNOLOGY</sub></p>
+
+</div>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ EchoGuard
+
+AI-powered secure voice authentication and audio watermarking system exploring biometric voice verification, neural audio watermarking, and blockchain-enabled ownership verification.
+
+`Python` `JavaScript` `TypeScript` `Solidity` `AI` `Blockchain`
+
+<br />[💻 View source](https://github.com/vinith2006/EchoGuard)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Full-Stack AI Chatbot
+
+AI chat application with persistent conversations, streaming responses, Markdown and code rendering, and API integration.
+
+`React` `Spring Boot` `Java` `MySQL` `OpenAI API`
+
+<br />[💻 View source](https://github.com/vinith2006/General-Chatbot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ AI Cooking Assistant
+
+Ingredient-based recipes, guided cooking workflows, dietary swaps, and personalized meal suggestions for the kitchen.
+
+`JavaScript` `HTML` `CSS` `Node.js` `Gemini API`
+
+<br />[💻 View source](https://github.com/vinith2006/cooking-assistant)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Hospital Management System
+
+Modern healthcare analytics dashboard for patient records, appointments, billing, and administrative workflows.
+
+`React` `TypeScript`
+
+<br />[💻 View source](https://github.com/vinith2006/Hospital-Mangement-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Furniture & Home Essentials
+
+Full-stack e-commerce application with product discovery, authentication, admin functionality, and image uploads.
+
+`React` `Tailwind CSS` `Express` `MongoDB`
+
+<br />[💻 View source](https://github.com/vinith2006/homefurnish-portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Payroll Management System
+
+Employee management platform with attendance tracking, salary calculation, and payroll workflows.
+
+`PHP` `MySQL`
+
+<br />[💻 Source](https://github.com/vinith2006/Payroll-Management-System) · [🌐 Live](https://payroll-management-system-livid-mu.vercel.app)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[**Explore all 21 public repositories →**](https://github.com/vinith2006?tab=repositories)
+
+</div>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="12%" align="center"><img src="https://img.shields.io/badge/01-06b6d4?style=for-the-badge" alt="Experience one" /></td>
+<td><strong>Frontend Developer Intern</strong><br /><a href="https://github.com/vinith2006">MoviCloud Labs Pvt. Ltd.</a><br /><sub>Jan 2026 – Apr 2026 · Responsive UI · React · Tailwind CSS · Modern web interfaces</sub></td>
+</tr>
+<tr>
+<td width="12%" align="center"><img src="https://img.shields.io/badge/02-8b5cf6?style=for-the-badge" alt="Experience two" /></td>
+<td><strong>Web Development Intern</strong><br /><a href="https://github.com/vinith2006">ApexPlanet Software Pvt. Ltd.</a><br /><sub>Jun 2025 – Aug 2025 · HTML · CSS · JavaScript · Responsive web development</sub></td>
+</tr>
+</table>
+
+## 🔬 Research & Innovation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/RESEARCH%20SHOWCASE-EchoGuard-ec4899?style=for-the-badge&labelColor=050816" alt="EchoGuard research showcase" />
+
+### Biometric Voice-Based Audio Watermarking
+### with Blockchain-Enabled Ownership Verification
+
+</div>
+
+EchoGuard explores how AI-based voice authentication, neural audio watermarking, and blockchain ownership verification can work together to protect digital audio and strengthen creator attribution.
+
+`Voice authentication` `Audio watermarking` `Neural watermarking` `Blockchain ownership` `AI security`
+
+## 🏆 Achievements
+
+<table>
+<tr>
+<td align="center" width="25%"><h2>🥇</h2><strong>First Prize</strong><br /><sub>Intellix-ML Hackathon</sub></td>
+<td align="center" width="25%"><h2>🥈</h2><strong>Second Prize</strong><br /><sub>Gencraft '25</sub></td>
+<td align="center" width="25%"><h2>🥉</h2><strong>Third Prize</strong><br /><sub>SiteSpark</sub></td>
+<td align="center" width="25%"><h2>🥉</h2><strong>Third Prize</strong><br /><sub>Forgia Hackathon</sub></td>
+</tr>
+</table>
+
+## 📜 Certifications & Learning
+
+<details>
+<summary><strong>View certifications</strong></summary>
+<br />
+
+- Certified Generative AI Professional — Oracle
+- AI Foundations Associate — Oracle
+- Certified Data Science Professional — Oracle
+- Power BI Data Analyst Associate — Microsoft
+- Responsible & Safe AI Systems — NPTEL (Elite)
+- Introduction to Internet of Things — NPTEL (Elite)
+- AI and cloud learning paths — IBM SkillsBuild
+- Data Science for Beginners — Board Infinity
+
+</details>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vinith2006&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1&rank_icon=github" height="165" alt="Vinith's GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinith2006&layout=compact&hide_border=true&theme=tokyonight&bg_color=050816&title_color=67e8f9&text_color=cbd5e1" height="165" alt="Vinith's top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinith2006&theme=tokyonight&hide_border=true&background=050816&ring=ec4899&fire=f97316&currStreakLabel=67e8f9&sideLabels=cbd5e1" height="165" alt="Vinith's contribution streak" />
+
+</div>
+
+## 🟢 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinith2006&bg_color=050816&color=67e8f9&line=8b5cf6&point=ec4899&area=true&hide_border=true&custom_title=Vinith%20M%20Contribution%20Graph" alt="Vinith's GitHub contribution graph" width="96%" />
+
+</div>
+
+## 🛠️ Currently Building
+
+<table>
+<tr>
+<td align="center" width="33%"><h2>🤖</h2><strong>AI Applications</strong><br /><sub>Intelligent tools with useful interfaces</sub></td>
+<td align="center" width="33%"><h2>🌐</h2><strong>Full-Stack Apps</strong><br /><sub>Products from frontend to database</sub></td>
+<td align="center" width="33%"><h2>🔐</h2><strong>Secure Systems</strong><br /><sub>Practical software built responsibly</sub></td>
+</tr>
+</table>
+
+<div align="center"><em>Always experimenting, learning and building.</em></div>
+
+## 💡 Developer Philosophy
+
+<div align="center">
+
+> **Build. Learn. Break. Improve. Repeat.**
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</div>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/vinith2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/vinith05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:vinithmurugan275@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://ai.studio/apps/drive/1rSExW8VthcpDiSjAGob61v6XTp-mqmy4"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+<br /><br />
+
+<strong>Thanks for visiting my digital workspace.</strong><br />
+<sub>⭐ Star a repository if you find something useful.</sub>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,45:7c3aed,100:06b6d4&height=120&section=footer" alt="Futuristic footer" width="100%" />
 </div>
