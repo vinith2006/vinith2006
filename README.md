@@ -78,11 +78,8 @@ I am a Computer Science & Engineering student and software developer passionate 
 
 </div>
 
-## 🌌 Digital Workspace
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,50:312e81,100:06b6d4&height=170&text=%E2%9C%A6%20V%20M%20%E2%9C%A6&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="Vinith M digital workspace visual" width="88%" />
 
 <p><sub>FULL-STACK SYSTEMS&nbsp;&nbsp;•&nbsp;&nbsp;AI EXPERIMENTS&nbsp;&nbsp;•&nbsp;&nbsp;CREATIVE TECHNOLOGY</sub></p>
 
